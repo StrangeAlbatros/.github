@@ -1,8 +1,10 @@
+<img align="center" alt="Cryptocurrency" width="100%" height="250px" src="https://github.com/StrangeAlbatros/.github/blob/main/profile/cybersecurity.png">
+
 <h1 align="center">Hi 👋, we are Strange Alabtros</h1>
 <h3 align="center">Cybersecurity blue team</h3>
 <img align="right" alt="Strange alabatros logo" width="400" src="https://github.com/StrangeAlbatros/.github/blob/main/profile/Albatross-PNG-File.png">
 
-- 🔭 We currently working on **SecScope** (cybersecurity threat intelligence and security investigation tools)
+- 🔭 We currently working on **CTI** (cybersecurity threat intelligence) and security investigation tools
 
 <p align="left">
 </p>
